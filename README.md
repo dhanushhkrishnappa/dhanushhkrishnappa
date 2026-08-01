@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Dhanush%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20MERN%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6A11CB,50:2575FC,100:00C6FB&text=Dhanush%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20MERN%20Developer&descAlignY=60"/>
 
 # 👋 Hi, I'm Dhanush
 
-### Full Stack Developer • AI Enthusiast • MERN Stack Developer
+### 💻 Full Stack Developer • 🤖 AI Enthusiast • 🚀 MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Applications;Learning+AI+%26+Machine+Learning;MERN+Stack+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Web+Applications;Passionate+About+Artificial+Intelligence;Learning+Something+New+Every+Day;Welcome+to+My+GitHub!" />
 
-<p align="center">
+<br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/dhanushkrishnappa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dhanushk2204@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -22,29 +22,37 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/dhanushhkrishnappa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🚀 Building scalable MERN applications
-- 📍 Bengaluru, India
+🎓 Computer Science Engineering Student
+
+💻 Passionate Full Stack MERN Developer
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+📚 Currently learning System Design & Advanced DSA
+
+🚀 Building scalable and production-ready applications
+
+📍 Bengaluru, India
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,docker,git,github,vscode,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,nodejs,express,mongodb,docker,git,github,vscode,linux,postman"/>
 
 </p>
 
@@ -55,35 +63,35 @@
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🏢 Visitor Pass Management
+## 🏢 Visitor Pass Management
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 
-JWT Authentication
+🔐 JWT Authentication
 
-QR Code Generation
+📄 PDF Visitor Pass
 
-PDF Pass Generation
+📱 QR Code Generation
 
-Role Based Access
+👥 Role-Based Access Control
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🤖 FinPilot AI
+## 🤖 FinPilot AI
 
 <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb"/>
 
-AI Financial Advisor
+💹 AI Financial Advisor
 
-Expense Analysis
+📊 Expense Analytics
 
-Budget Planning
+💡 Smart Budget Insights
 
-Modern Dashboard
+🤖 AI-powered Dashboard
 
 </td>
 
@@ -92,13 +100,11 @@ Modern Dashboard
 
 ---
 
-# 📊 GitHub Analytics
+# 🏆 LeetCode
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushhkrishnappa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushhkrishnappa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://leetcard.jacoblin.cool/dhanushkrishnappa?theme=dark&font=Nunito&ext=contest"/>
 
 </p>
 
@@ -114,29 +120,33 @@ Modern Dashboard
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushhkrishnappa&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushhkrishnappa&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 LeetCode
+# 💻 Currently Working On
 
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/dhanushkrishnappa?theme=dark&font=Nunito&ext=contest"/>
-
-</p>
+```text
+✔ FinPilot AI
+✔ Visitor Pass Management System
+✔ Data Structures & Algorithms
+✔ Machine Learning
+✔ Generative AI
+```
 
 ---
+
+# 💬 Favorite Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> **"First, solve the problem. Then, write the code." — John Johnson**
 
 </div>
 
@@ -146,6 +156,6 @@ Modern Dashboard
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,50:3B82F6,100:06B6D4&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,50:2575FC,100:00C6FB"/>
 
 </div>
