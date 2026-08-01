@@ -13,11 +13,14 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<a href="https://github.com/dhanushhkrishnappa
+">
+<img src="https://img.shields.io/github/followers/dhanushhkrishnappa
+?style=for-the-badge"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=dhanushhkrishnappa
+&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -124,9 +127,11 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushhkrishnappa
+&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushhkrishnappa
+&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -136,7 +141,8 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=dhanushhkrishnappa
+&theme=tokyonight"/>
 
 </p>
 
@@ -146,7 +152,8 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushhkrishnappa
+&theme=tokyo-night"/>
 
 </p>
 
