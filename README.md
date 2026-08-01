@@ -134,16 +134,6 @@ Modern Dashboard
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Enable this after adding the snake GitHub Action.**
-
-```text
-.github/output/github-contribution-grid-snake.svg
-```
-
----
-
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
