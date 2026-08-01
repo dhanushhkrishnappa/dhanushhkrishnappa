@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Dhanush
 
-<!--
-**dhanushhkrishnappa/dhanushhkrishnappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Full Stack Developer (MERN)
+🤖 Learning AI & Machine Learning
+🌱 Currently building AI-powered applications
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • Python • JavaScript
+React • Node.js • Express
+MongoDB • Git • Docker
+
+## Current Projects
+
+🚀 FinPilot AI
+🏢 Visitor Pass Management System
+
+## Contact
+
+LinkedIn
+Portfolio
+Email
