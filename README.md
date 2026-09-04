@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Dhanush
 
-### 💻 Full Stack Developer • 🤖 AI Enthusiast • 🚀 MERN Stack Developer
+### 💻 AI Full Stack Developer • 🤖 AI Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Web+Applications;Passionate+About+Artificial+Intelligence;Learning+Something+New+Every+Day;Welcome+to+My+GitHub!" />
 
@@ -36,7 +36,7 @@
 
 🎓 Computer Science Engineering Student
 
-💻 Passionate Full Stack MERN Developer
+💻 Passionate Full Stack Developer
 
 🤖 Exploring Artificial Intelligence & Machine Learning
 
