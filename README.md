@@ -1,76 +1,72 @@
 <div align="center">
 
-# DHANUSH K
-
-### FULL STACK DEVELOPER · AI ENGINEER · PRODUCT BUILDER
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:111827,100:020617&height=180&section=header&text=DHANUSH%20K&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=52"/>
 
 <br>
 
-`building software at the intersection of intelligent systems × product engineering`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;AI+ENGINEER;PRODUCT+BUILDER;BUILDING+CERTIFY;EXPLORING+AGENTIC+AI;DESIGNING+SYSTEMS+THAT+ACTUALLY+DO+THINGS"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/dhanushkrishnappa/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
 </a>
 &nbsp;
 <a href="mailto:dhanushk2204@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=FB7185"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/dhanushkrishnappa/">
-<img src="https://img.shields.io/badge/LEETCODE-111111?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-0B1220?style=for-the-badge&logo=leetcode&logoColor=F59E0B"/>
 </a>
 &nbsp;
 <a href="https://github.com/dhanushhkrishnappa">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
 </a>
 
 </div>
 
 <br>
 
----
-
 <table>
 <tr>
-<td width="55%" valign="top">
+<td bgcolor="#09090B" width="20%" align="center">
 
-## CURRENTLY
+### 06
 
-Building **AI-native software** rather than simply adding AI to existing applications.
-
-My current interests sit between:
-
-`Full Stack Engineering`
-
-`AI / LLM Systems`
-
-`Agentic Workflows`
-
-`System Design`
-
-`Developer Productivity`
+**SEM**
 
 </td>
 
-<td width="45%" valign="top">
+<td bgcolor="#09090B" width="20%" align="center">
 
-## BASED IN
+### CSE
 
-**Bengaluru, India**
+**ENGINEERING**
 
-Computer Science Engineering
+</td>
 
-VTU
+<td bgcolor="#09090B" width="20%" align="center">
 
-<br>
+### MERN
 
-### OPEN TO
+**FULL STACK**
 
-Software Engineering  
-Full Stack Development  
-AI Engineering
+</td>
+
+<td bgcolor="#09090B" width="20%" align="center">
+
+### AI
+
+**ENGINEERING**
+
+</td>
+
+<td bgcolor="#09090B" width="20%" align="center">
+
+### ∞
+
+**BUILDING**
 
 </td>
 </tr>
@@ -78,244 +74,416 @@ AI Engineering
 
 ---
 
-# 01 / BUILDING
+<div align="center">
 
-## ┌─ CERTIFY
+## `// SYSTEM STATUS`
 
-### AI Learning & Certification Platform
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20FULL%20STACK-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASE-BENGALURU-8B5CF6?style=for-the-badge"/>
 
-> **Make certification about demonstrated ability — not course completion.**
+</div>
 
-CERTIFY is a course-first learning platform where an AI tutor teaches through conversation while deterministic backend systems control progression, mastery and certification.
-
-**The interesting part:**  
-The LLM is deliberately **not** the authority that decides whether someone gets certified.
-
-```text
-COURSE
-  ↓
-BASELINE DIAGNOSTIC
-  ↓
-AI-GUIDED LEARNING
-  ↓
-PRACTICE
-  ↓
-MASTERY TRACKING
-  ↓
-ASSESSMENT
-  ↓
-REMEDIATION
-  ↓
-FINAL ASSESSMENT
-  ↓
-VIVA / DEFENSE
-  ↓
-VERIFIABLE CREDENTIAL
-```
-
-### Engineering
-
-`Node.js` · `TypeScript` · `PostgreSQL` · `Prisma`  
-`Redis` · `React` · `LLM Orchestration` · `BKT`
-
-### Core Principle
-
-```text
-LLM
-→ understanding
-→ explanation
-→ questioning
-→ rubric extraction
-
-DETERMINISTIC SYSTEM
-→ progression
-→ mastery updates
-→ assessment scoring
-→ certification tier
-→ credential issuance
-```
-
-**Status:** `ACTIVE DEVELOPMENT`
-
----
-
-# 02 / EXPERIMENTING
+<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-## 🌊 ORCA
+<td width="52%" valign="top">
 
-### Oceanic Reasoning & Collaborative Agents
+# `01` — WHO AM I?
 
-An exploration into **agentic AI for marine intelligence**.
+I’m a **Computer Science Engineering student and full-stack developer** interested in the space where **software engineering, AI and product design** overlap.
 
-The idea is to combine:
+I like taking an idea from:
 
-`AI Agents`  
-`Reasoning`  
-`Marine Data`  
-`Information Synthesis`
+**idea → architecture → interface → backend → intelligence → usable product**
 
-into a system capable of turning fragmented oceanic information into useful intelligence.
+My current obsession is building software where AI isn't just a chatbot sitting on top of an application — it is designed as part of the system itself.
 
-**Status:** `EXPLORING`
+<br>
+
+### CURRENT INTERESTS
+
+```text
+▸ Full Stack Engineering
+▸ Generative AI
+▸ Agentic AI
+▸ LLM Applications
+▸ System Design
+▸ Distributed Systems
+▸ Data Structures & Algorithms
+```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top" bgcolor="#0B1220">
 
-## 🏢 VISITOR PASS
+# `// NOW`
 
-### Visitor Management System
+### 🟢 ONLINE
 
-A production-style MERN application built around real operational workflows.
+**Building**
 
-`JWT Authentication`
+`CERTIFY`
 
-`RBAC`
+AI learning + certification platform
 
-`QR Passes`
+<br>
 
-`PDF Generation`
+**Exploring**
 
-`Approval Workflow`
+`AGENTIC AI`
 
-`Check-in / Check-out`
+Intelligent systems & multi-agent workflows
 
-`Dashboard Analytics`
+<br>
 
-**Status:** `SHIPPED`
+**Sharpening**
+
+`SYSTEM DESIGN`
+
+Architecture, APIs, databases & scalability
+
+<br>
+
+**Practicing**
+
+`DSA`
+
+Java + problem solving
+
+<br>
+
+**Shipping**
+
+`FULL STACK`
+
+React · Node · TypeScript
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `02` — FEATURED BUILD
+
+<div align="center">
+
+## 🧠 CERTIFY
+
+### `AI LEARNING × DEMONSTRATED SKILL × VERIFIABLE CREDENTIALS`
+
+<br>
+
+<img src="https://img.shields.io/badge/PRODUCT-AI%20LEARNING-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-TUTOR-0E7490?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASSESSMENT-DETERMINISTIC-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREDENTIAL-VERIFIABLE-16A34A?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+> **Certification should prove what you can demonstrate — not simply what you completed.**
+
+CERTIFY is a course-first AI learning and certification platform I'm building around a simple idea:
+
+**AI teaches. Software decides. Evidence proves.**
+
+<br>
+
+```text
+                           ┌────────────────────┐
+                           │       COURSE       │
+                           └─────────┬──────────┘
+                                     │
+                                     ▼
+                        ┌────────────────────────┐
+                        │  BASELINE DIAGNOSTIC   │
+                        └────────────┬───────────┘
+                                     │
+                                     ▼
+                    ┌────────────────────────────────┐
+                    │        AI-GUIDED LEARNING      │
+                    │                                │
+                    │  Explain → Ask → Practice     │
+                    │       → Feedback → Repeat      │
+                    └────────────────┬───────────────┘
+                                     │
+                                     ▼
+                         ┌──────────────────────┐
+                         │   MASTERY TRACKING   │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                    ┌────────────────────────────────┐
+                    │         ASSESSMENT             │
+                    └────────────────┬───────────────┘
+                                     │
+                                     ▼
+                            ┌─────────────────┐
+                            │   REMEDIATION   │
+                            └────────┬────────┘
+                                     │
+                                     ▼
+                         ┌─────────────────────┐
+                         │   FINAL ASSESSMENT  │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                           ┌──────────────────┐
+                           │  AI VIVA /       │
+                           │  DEFENSE         │
+                           └────────┬─────────┘
+                                    │
+                                    ▼
+                       ┌─────────────────────────┐
+                       │ VERIFIABLE CREDENTIAL   │
+                       └─────────────────────────┘
+```
+
+### THE ARCHITECTURE PHILOSOPHY
+
+<table>
+<tr>
+<td width="50%" bgcolor="#0B1220">
+
+### 🤖 LLM
+
+```text
+Natural Language
+Understanding
+        +
+Explanation
+        +
+Questioning
+        +
+Rubric Extraction
+```
+
+</td>
+
+<td width="50%" bgcolor="#0B1220">
+
+### ⚙️ DETERMINISTIC CORE
+
+```text
+Progression
+        +
+Mastery Updates
+        +
+Assessment Scoring
+        +
+Certification Tier
+        +
+Credential Issuance
+```
 
 </td>
 </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+`Node.js` `TypeScript` `React` `PostgreSQL` `Prisma` `Redis`
+
+### `STATUS → ACTIVE DEVELOPMENT`
+
+</div>
+
+---
+
+# `03` — OTHER BUILDS
+
+<table>
+<tr>
+
+<td width="50%" valign="top" bgcolor="#07111F">
+
+## 🌊 ORCA
+
+### OCEANIC REASONING & COLLABORATIVE AGENTS
+
+An exploration into **agentic AI for marine intelligence**.
+
+```text
+Marine Data
+     ↓
+Specialized Agents
+     ↓
+Reasoning
+     ↓
+Information Synthesis
+     ↓
+Actionable Intelligence
+```
+
+**Direction**
+
+`AGENTIC AI`
+
+`MULTI-AGENT REASONING`
+
+`MARINE INTELLIGENCE`
+
+**STATUS:** `EXPLORING`
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#120B18">
+
+## 🏢 VISITOR PASS
+
+### MERN MANAGEMENT SYSTEM
+
+A complete operational workflow for managing visitors.
+
+```text
+Authentication
+      ↓
+RBAC
+      ↓
+Registration
+      ↓
+Approval
+      ↓
+QR Pass
+      ↓
+Check-in / Check-out
+```
+
+**Built with**
+
+`React` `Node.js` `Express` `MongoDB`
+
+**STATUS:** `SHIPPED`
+
+</td>
+
+</tr>
 
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" bgcolor="#0D1117">
 
 ## 🏠 STAYNEST
 
-### PG Management System
+### PG MANAGEMENT SYSTEM
 
-Full-stack property and tenancy management focused on modular backend architecture.
+Property + tenant management with a modular backend architecture.
 
-`Property Management`
+```text
+Properties
+Tenants
+Billing
+Maintenance
+Users
+Audit
+```
 
-`Tenant Management`
+**Stack**
 
-`Billing`
+`Flutter`
 
-`Maintenance`
+`Node.js`
 
-`Authentication`
+`Express`
 
 `PostgreSQL`
 
 `Prisma`
 
-**Status:** `BUILDING`
+**STATUS:** `BUILDING`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#11110B">
 
-## 🧪 OTHER BUILDS
+## 🧪 THE LAB
 
-A growing collection of experiments in:
+### EXPERIMENTS & PROTOTYPES
 
-`Generative AI`
+A collection of things I build to understand how they work.
 
-`Machine Learning`
+```text
+Generative AI
+Machine Learning
+Computer Vision
+Web Applications
+Automation
+Developer Tools
+```
 
-`Computer Vision`
+Some ideas become projects.
 
-`Web Applications`
+Some become architecture experiments.
 
-`Automation`
+Some become lessons.
 
-`Developer Tools`
-
-**Status:** `ALWAYS EXPERIMENTING`
+**STATUS:** `ALWAYS RUNNING`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 03 / HOW I BUILD
-
-I like projects that force several engineering disciplines to meet.
-
-```text
-            ┌─────────────────┐
-            │     PRODUCT     │
-            └────────┬────────┘
-                     │
-        ┌────────────┼────────────┐
-        ↓            ↓            ↓
-   FRONTEND       BACKEND        AI
-        │            │            │
-        ↓            ↓            ↓
-       UX          SYSTEMS      REASONING
-        │            │            │
-        └────────────┼────────────┘
-                     ↓
-               REAL PRODUCT
-```
-
-### My bias
-
-**Build the system, not just the feature.**
-
-That means thinking about:
-
-`Architecture`
-
-`Data Flow`
-
-`APIs`
-
-`Authentication`
-
-`Failure States`
-
-`Scalability`
-
-`User Experience`
-
-`Observability`
-
-`AI Boundaries`
-
----
-
-# 04 / STACK
+# `04` — MY ENGINEERING MAP
 
 <div align="center">
 
-### LANGUAGES
+```text
+                         ┌───────────────────┐
+                         │      PRODUCT      │
+                         └─────────┬─────────┘
+                                   │
+                ┌──────────────────┼──────────────────┐
+                │                  │                  │
+                ▼                  ▼                  ▼
+        ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
+        │   FRONTEND   │   │   BACKEND    │   │     AI       │
+        │              │   │              │   │              │
+        │ React        │   │ Node         │   │ LLMs         │
+        │ UX           │   │ APIs         │   │ Agents       │
+        │ Interfaces   │   │ Databases    │   │ Orchestration│
+        └──────┬───────┘   └──────┬───────┘   └──────┬───────┘
+               │                  │                  │
+               └──────────────────┼──────────────────┘
+                                  ▼
+                         ┌──────────────────┐
+                         │    REAL SYSTEM   │
+                         └──────────────────┘
+```
+
+</div>
+
+---
+
+# `05` — STACK // LOADED
+
+<div align="center">
+
+### CORE
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c"/>
 
 <br><br>
 
-### FRONTEND
+### WEB
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite"/>
-
-<br><br>
-
-### BACKEND & DATA
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,html,css"/>
 
 <br><br>
 
-### ENGINEERING
+### DATA
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,firebase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis"/>
 
 <br><br>
 
@@ -323,128 +491,146 @@ That means thinking about:
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
 
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,firebase"/>
+
 </div>
 
 ---
 
-# 05 / CURRENTLY LEARNING
+# `06` — WHAT I'M GETTING BETTER AT
 
 <table>
 <tr>
-<td>
 
-### SYSTEM DESIGN
+<td width="33%" align="center" bgcolor="#06131B">
 
-Distributed systems  
+### `01`
+
+## SYSTEMS
+
+Architecture  
+API Design  
+Databases  
 Caching  
-Database architecture  
-API design  
 Scalability
 
 </td>
-<td>
 
-### AI ENGINEERING
+<td width="33%" align="center" bgcolor="#10091A">
 
-LLM applications  
-Agentic systems  
-AI orchestration  
-Knowledge systems  
-Evaluation
+### `02`
+
+## AI
+
+LLM Applications  
+Agentic Systems  
+AI Orchestration  
+Evaluation  
+Intelligent UX
 
 </td>
-<td>
 
-### PROBLEM SOLVING
+<td width="33%" align="center" bgcolor="#13100A">
 
-Data Structures  
-Algorithms  
+### `03`
+
+## PROBLEM SOLVING
+
+DSA  
 Java  
-Competitive programming
+Algorithms  
+Complexity  
+Interview Prep
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 06 / ENGINEERING PRINCIPLES
-
-```text
-01  AI should augment the system — not become the system.
-
-02  Important decisions should be deterministic when they need to be auditable.
-
-03  A good UI is part of the product architecture.
-
-04  Complexity should be earned.
-
-05  Build → test → break → understand → improve.
-```
-
----
-
-# 07 / GITHUB
+# `07` — BUILDING PRINCIPLES
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=dhanushhkrishnappa&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=555555&icon_color=111111"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushhkrishnappa&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=555555"
-  height="165"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushhkrishnappa&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true"/>
+| | |
+|---|---|
+| **01** | `AI should augment the system — not replace the architecture.` |
+| **02** | `Important decisions should be deterministic when they need to be auditable.` |
+| **03** | `Good products need both engineering depth and good interfaces.` |
+| **04** | `Complexity should be earned.` |
+| **05** | `Build → break → understand → improve.` |
 
 </div>
 
 ---
 
-# 08 / RIGHT NOW
-
-```text
-[■■■■■■■■■■] CERTIFY
-        AI learning + certification infrastructure
-
-[■■■■■■■□□□] ORCA
-        Agentic AI / marine intelligence
-
-[■■■■■■■■□□] FULL STACK
-        React + Node + TypeScript + databases
-
-[■■■■■■□□□□] SYSTEM DESIGN
-        Architecture + distributed systems
-
-[■■■■■■■□□□] DSA
-        Java + problem solving
-```
-
----
+# `08` — GITHUB SIGNAL
 
 <div align="center">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushhkrishnappa&show_icons=true&hide_border=true&bg_color=09090B&title_color=22D3EE&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github"/>
 
-### I DON'T WANT TO JUST WRITE CODE.
-
-### I WANT TO BUILD SYSTEMS PEOPLE CAN USE.
-
-<br>
-
-`© Dhanush K · Bengaluru`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushhkrishnappa&layout=compact&hide_border=true&bg_color=09090B&title_color=22D3EE&text_color=CBD5E1"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushhkrishnappa&theme=dark&background=09090B&hide_border=true&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushhkrishnappa&bg_color=09090B&color=94A3B8&line=22D3EE&point=8B5CF6&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# `09` — CURRENT MISSION
+
+<div align="center">
+
+<table>
+<tr>
+<td bgcolor="#09090B">
+
+```text
+╭────────────────────────────────────────────────╮
+│                                                │
+│   MISSION //  BUILD INTELLIGENT SOFTWARE      │
+│                                                │
+│   [████████████████████░░░░] CERTIFY          │
+│                                                │
+│   [███████████████░░░░░░░░] FULL STACK        │
+│                                                │
+│   [████████████░░░░░░░░░░] AGENTIC AI         │
+│                                                │
+│   [███████████░░░░░░░░░░░] SYSTEM DESIGN      │
+│                                                │
+│   [████████░░░░░░░░░░░░░░] DSA                │
+│                                                │
+╰────────────────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### `BUILD SOMETHING USEFUL.`
+### `MAKE IT INTELLIGENT.`
+### `MAKE IT REAL.`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:111827,100:09090B"/>
 
 </div>
